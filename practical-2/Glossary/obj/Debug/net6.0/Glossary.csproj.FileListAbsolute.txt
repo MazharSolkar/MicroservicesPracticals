@@ -1,0 +1,54 @@
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\appsettings.json
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Glossary.exe
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Glossary.deps.json
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Glossary.runtimeconfig.json
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Glossary.dll
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Glossary.pdb
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mazhar\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.csproj.AssemblyReference.cache
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.AssemblyInfoInputs.cache
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.AssemblyInfo.cs
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.csproj.CoreCompileInputs.cache
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\scopedcss\bundle\Glossary.styles.css
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.csproj.CopyComplete
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.dll
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\refint\Glossary.dll
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.pdb
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\Glossary.genruntimeconfig.cache
+C:\Users\Mazhar\Glossary\obj\Debug\net6.0\ref\Glossary.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\appsettings.Development.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\appsettings.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Glossary.exe
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Glossary.deps.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Glossary.runtimeconfig.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Glossary.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Glossary.pdb
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.csproj.AssemblyReference.cache
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.GeneratedMSBuildEditorConfig.editorconfig
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.AssemblyInfoInputs.cache
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.AssemblyInfo.cs
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.csproj.CoreCompileInputs.cache
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.MvcApplicationPartsAssemblyInfo.cs
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.MvcApplicationPartsAssemblyInfo.cache
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\staticwebassets.build.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\staticwebassets.development.json
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\scopedcss\bundle\Glossary.styles.css
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.csproj.CopyComplete
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\refint\Glossary.dll
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.pdb
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\Glossary.genruntimeconfig.cache
+C:\0_MSc_IT_Notes\Microservices Architecture\practicals\practical-2\Glossary\obj\Debug\net6.0\ref\Glossary.dll
